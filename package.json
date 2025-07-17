@@ -1,0 +1,31 @@
+{
+  "name": "ai_assistant",
+  "version": "1.0.0",
+  "description": "This is a simple ai assitant bot based on whatsapp unofficial api bailey.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danscot/ai_assistant.git"
+  },
+  "keywords": [
+    "bailey",
+    "ai",
+    "assistant"
+  ],
+  "author": "danscot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danscot/ai_assistant/issues"
+  },
+  "homepage": "https://github.com/Danscot/ai_assistant#readme",
+  "dependencies": {
+
+    "axios": "^1.10.0",
+
+    "bailey": "https://github.com/Danscot/senku_bail_mod/archive/refs/tags/V1.5.0.tar.gz"
+  }
+}
